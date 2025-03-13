@@ -1,4 +1,4 @@
-<img src="word.png" alt="Microsoft Word Logo" style="width: 220px; height: 204.960938px;">
+<img src="word.png" alt="Microsoft Word Logo" style="width: 113px; height: 105.295455px;">
 
 ## 🔒 Secure Document Access  
 
