@@ -1,3 +1,4 @@
+![Microsoft Word Logo](word.png)
 
 
 ## 🔒 Secure Document Access  
