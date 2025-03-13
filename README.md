@@ -1,5 +1,4 @@
-![Microsoft Word Logo](word.png)
-
+<img src="word.png" alt="Microsoft Word Logo" style="width: 220px; height: 204.960938px;">
 
 ## 🔒 Secure Document Access  
 
